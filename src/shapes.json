@@ -1,0 +1,58 @@
+{
+    "o-piece": {
+        "shape": [
+            [1,1],
+            [1,1]
+        ],
+        "color": "YELLOW",
+        "origin": [2,2]
+    },
+    "i-piece": {
+        "shape": [
+            [1],
+            [1],
+            [1],
+            [1]
+        ],
+        "color": "BLUE",
+        "origin": [2,2]
+    },
+    "s-piece": {
+        "shape": [
+            [0,1,1],
+            [1,1,0]
+        ],
+        "color": "RED",
+        "origin": [3,2]
+    },
+    "z-piece": {
+        "shape": [
+            [1,1,0],
+            [0,1,1]
+        ],
+        "color": "GREEN",
+        "origin": [3,2]
+    },
+    "l-piece": {
+        "shape": [
+            [1,1,1],
+            [1,0,0]
+        ],
+        "color": "ORANGE",
+        "origin": [3,2]
+    },
+    "j-piece": {
+        "shape": [
+            [1,1,1],
+            [0,0,1]
+        ],
+        "color": "DARKBLUE"
+    },
+    "t-piece": {
+        "shape": [
+            [1,1,1],
+            [0,1,0]
+        ],
+        "color": "PURPLE"
+    }
+}
